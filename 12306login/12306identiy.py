@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time    : 2020/4/2 12:35
-# @Site    :
-# @File    : 12306identiy.py
+
 import base64
 
 from lxml import etree
